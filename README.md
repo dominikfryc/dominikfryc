@@ -1,7 +1,5 @@
 # Hello, I'm Dominik
 
-- 🎓 I study Web engineering at FIT CTU @ Prague
-- ⚙️ I work as Electronic innovations Intern @ Skoda Auto a.s.
-- 🔭 Also I'm Co-founder and Frontend Lead @ Poopeek s.r.o.
-- 👀 I’m very interested in Web Dev, UI/UX Design, VR Dev
-- 💬 Ask me about Angular, Firebase and Typescript
+🎓 I study Web Engineering at FIT CTU in 🇨🇿. I did an Exchange Program at KSU in 🇺🇸 and at UPM in 🇪🇸  
+⚙️ I work as Electronic Innovations Intern @ Skoda Auto a.s. I'm also Co-Founder and Frontend Lead @ Poopeek s.r.o.  
+💬 Ask me about Web Development, UI/UX Design and VR. My favorite frontend stack is Angular and Firebase  
